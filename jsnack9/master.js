@@ -8,7 +8,7 @@ for (var i = 0; i < numeri.length; i++) {
   somma = somma + parseInt(numeri[i])
 }
 
-media = media + (somma / 2)
+media = media + (somma / 10)
 
 console.log(somma);
 console.log(media);
